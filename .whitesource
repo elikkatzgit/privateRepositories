@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "elikkatzgit/whitesource-config@master",
   "hostRules": [
   {
-    "matchHost": "https://elikkatzgit.jfrog.io/artifactory/default-maven-local",
+    "matchHost": "https://elikkatzgit.jfrog.io/artifactory/default-maven-local/",
     "hostType": "maven",
     "username": "elikkatz@gmail.com",
     "encrypted": {

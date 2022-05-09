@@ -1,3 +1,14 @@
 {
-  "settingsInheritedFrom": "elikkatzgit/whitesource-config@master"
+  "settingsInheritedFrom": "elikkatzgit/whitesource-config@master",
+  "hostRules": [
+  {
+    "matchHost": "https://elikkatzgit.jfrog.io/artifactory/default-maven-local",
+    "hostType": "maven",
+    "username": "elikkatz@gmail.com",
+    "encrypted": {
+      "token": "wcBMA8xOaBJvzJNbAQgAi7SF73y5e+CDHHcXTP8WAZRZC/zjLwkUzb6A6qDH+0GuhiYkKPbIalF8UVSdMsDrQL7E1WtyprpqwUc5y/ENqxuFxybTAf2z0edaRPCMaP5qiNvIOr9W74ROAtyR4GPuOT4NOqzIVsOIAEfn6IhcQuPyzSGX8xa8XjYdVs2XAE4umjr+jYCwlMCgUdR+7yTkxF7+xZT12cvBIyTyTYXJadouq0SL16ZNxB/4ffKNYgpZ0Jq6JAQVcB2/eZ8Y4lQ3SeObgUKlY4lTpcNGgf1w4FqdwgcY7RkrsCkY5+Hf2ou8TP79Ze9p4O5IY5vjosmhE9tDD8FwIH8dfRvKKnh+wNLCnAHy8bp+tdz5BX6lTJbuzXcm/YaE5ygRClONt/Yd0BWy8icJTj7V9R5WJH17vezdoEMu7lRSuVfV7aQxaJGM5JlCiB021OTe542C8m+aB3d5xQdyEYHsIba6EcE83VF+wUiKNDj25mZ3V1Lmz3sovTfJROj3YQQTVEh8iLXn7wREOFwEZ67/i7qT+sF8wB6/DSJYGBVCJttYO/ayzY+JNqViD26ciYKGGobnVCOy4hCVNmn3T77NkK0a/g0eFqTe0jae43pIa6WJs89mDjZLbtt7LoGGmmnwYjT4qqMJSTk9LwhJBaQQDhSFzWjD1O9SMyaQwsG1DiVhF4tze81seVo3tfTSXl4K8YfB8/ouPchue+rov2X/DkUfdhU0H8iZeXWOsazR3eJsL9s05ZBCnydamn0feah3aqE13s0rpCxU5oHc2G37SQZBUbwL+nyT6Mjr1YpRGh0W+o49WJ/rM2e8eKQ6hoKcw4MxhLTDO0n2YjSkvUO3LRFIhOevGMsyJxEBkBqwbpDfZvQ+8YEfSH8DfqcfLXpHqLpZUZ8IuLTSfTNvwNyw/j2d3tZY2dp0AB8ZbxsB9vHoE8nZ1Rj3CDKQ40XLsbmMg9hM7FgNuyGcJU6rUcYUSlVTiIzyW+VOLFLa2efJFmIo09zElzionN0QtFwSMbMdpmvN6rktZGOObm4h/RuZeXMBmtXXwrv/t/85XSE1OdUGhosjgA+rV+7LLNvsFHkMmOFPG0kRGB+GytMVlpIqiVtZpivfCMl2dB5cokOXmwjKT6/rPPVDOY9E7fsR5XXs6b3Av70LrrTDWHAitCzK161F1WgrxHMSGGTh8KxgztyVTfgSV4nle+EMeT3p9qhi4L8g9fNG8tQwMf1c9a3cQXVrmcO6Z+l6i5n7x4nrBukBLUXhPwHQlrMXVS4uACHmhsD+0KUQLf66mj0kFCheIY7dO/hQe4p1NWuNMWloFP0UDB8bkiKFH3C3UialJkumbKtfMyDIT803WqXO2xsIkTp1zTM0PtDkykeclYavEWP6Fp6ajyqqOezywh8dEZZqV3iCVIN3SpzHCzMSJ9yKz36nzgkT6rZ1OljPAzMkV25Dnu9MBJHjdtpkWa7HuBeOO4+bF86Bn7I6rwGaVK7n7+8/WsDZ"
+      }
+    }
+  ]
+}
 }
